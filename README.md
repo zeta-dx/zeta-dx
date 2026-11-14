@@ -1,94 +1,81 @@
-# 👋 Hi, I'm Monish Khandelwal
+# Hi, I'm Monish Khandelwal 👋
 
-### Embedded Systems Engineer | Biomedical Engineering | Python Developer
+### Embedded Systems | Biomedical Engineering | Python Development
 
-I enjoy combining **hardware, software and engineering** to build practical solutions. My interests include embedded firmware, biomedical instrumentation, microcontrollers, sensor integration and Python-based applications.
+I'm interested in building practical solutions at the intersection of **embedded systems, biomedical engineering, and software development**. I enjoy working with hardware, microcontrollers, sensors, and Python-based applications to develop tools that solve real-world engineering problems.
 
-- 🔬 Interested in Biomedical Instrumentation and Medical Diagnostic Systems
-- ⚙️ Exploring Embedded Systems, Firmware Development and Hardware Integration
-- 💻 Building Python applications and engineering tools
-- 🔌 Working with microcontrollers, sensors and communication protocols
-- 🚀 Passionate about learning, experimenting and solving real-world engineering problems
+My areas of interest include embedded firmware, biomedical instrumentation, hardware-software integration, and Python application development.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🛠️ Tech Stack & Tools
 
-### Programming Languages
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+**Programming Languages**
 
-### Embedded Systems & Hardware
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Development Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**Embedded Systems & Hardware**
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/RP2040-663399?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ATtiny](https://img.shields.io/badge/ATtiny-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+**Development & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
-## 🧬 Areas of Interest
+## 🔬 Areas of Interest
 
-- Biomedical Instrumentation
-- Medical Diagnostic Equipment
-- Embedded C & Firmware Development
-- Microcontroller Programming
-- Sensor Interfacing & Data Acquisition
-- UART, SPI and I2C Communication
-- Hardware–Software Integration
-- Python Desktop Application Development
-- Automation and Engineering Tools
+- Embedded systems and firmware development
+- Biomedical instrumentation and medical devices
+- Microcontrollers and sensor interfacing
+- Hardware-software integration
+- Data acquisition and communication protocols
+- Python desktop application development
+- Engineering automation and productivity tools
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🖥️ Service Desk Ticketing System
-A Python-based desktop application for managing service tickets and customer support operations.
+A Python-based desktop application for managing service desk tickets.
 
 **Technologies:** Python · Tkinter · SQLite · Excel · OpenPyXL
 
-### 🔬 Biomedical & Embedded Systems
-Projects and experiments involving embedded electronics, microcontrollers, sensors and biomedical instrumentation.
+### ⚙️ Embedded Systems & Biomedical Projects
+Exploring applications involving microcontrollers, hardware interfacing, biomedical instrumentation, and engineering systems.
 
-**Technologies:** Embedded C · Python · Microcontrollers · Sensors
-
-### ⚡ Engineering Automation Tools
-Python applications and utilities designed to simplify engineering calculations, data management and everyday workflows.
-
-**Technologies:** Python · SQLite · Excel
+### 🐍 Python Development Projects
+Developing Python tools and desktop applications focused on automation, data management, and practical engineering workflows.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeta-dx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeta-dx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeta-dx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Monish's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeta-dx&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeta-dx&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=zeta-dx&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeta-dx&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeta-dx&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -96,21 +83,18 @@ Python applications and utilities designed to simplify engineering calculations,
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/zeta-dx">
-<img src="https://img.shields.io/badge/GitHub-zeta--dx-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/zeta-dx">
+    <img src="https://img.shields.io/badge/GitHub-zeta--dx-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/monish-khandelwal-861920a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Monish%20Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-📫 **Email:** Add your professional email address here
-
-💼 **LinkedIn:** Add your LinkedIn profile URL here
+📧 **Email:** Add your preferred professional email address here.
 
 ---
 
 <p align="center">
-  <i>"Engineering ideas into practical solutions."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Combining engineering, electronics, and software to build practical solutions.</i>
 </p>
