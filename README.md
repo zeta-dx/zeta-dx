@@ -66,16 +66,12 @@ Developing Python tools and desktop applications focused on automation, data man
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeta-dx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeta-dx&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zeta-dx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeta-dx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeta-dx&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeta-dx&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=zeta-dx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -91,7 +87,7 @@ Developing Python tools and desktop applications focused on automation, data man
   </a>
 </p>
 
-📧 **Email:** Add your preferred professional email address here.
+📧 **Email:** monish.2022.k@gmail.com
 
 ---
 
